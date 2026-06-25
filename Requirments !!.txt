@@ -1,0 +1,4 @@
+1-python setup
+2-In command prompt Write"pip install pygame -ce"
+3-After downloading and installing is completed you play this game open file "Main_Game.py"
+4-play and enjoy
